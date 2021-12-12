@@ -1,0 +1,25 @@
+input , select , textarea{
+    display: block;
+    margin: 4px;
+}
+h1 {
+    text-align: center;
+    background-color: blanchedalmond;
+
+font-family: 'Petemoss', cursive;
+font-family: 'Yuji Syuku', serif;
+}
+.inline {
+    display: inline;
+}
+
+body {
+    background-color: #30a5c9;
+}
+.form-container {
+    background-color: #efefef;
+}
+h4 {
+    font-family: 'Yuji Syuku', serif;
+    background-color: bisque;
+}
